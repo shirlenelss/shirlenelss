@@ -42,6 +42,12 @@ A basic project to demonstrate sending and consuming Kafka events with Zookeeper
 
 ---
 
+### Kubernetes on linux/Debian GNU
+A basic project to demonstrate kubernetes in terminal with vi and tmux configs. No IDE.   
+🔗 [View on GitHub]([https://github.com/shirlenelss/kub-fundamental])
+
+---
+
 ## Currently Learning
 
 ### AWS  
