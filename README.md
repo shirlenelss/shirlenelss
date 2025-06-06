@@ -36,8 +36,8 @@ Now, I’ve come to value the importance of sharing knowledge and learning in pu
 
 ## Projects
 
-### Kafka Activity Service  
-A basic project to demonstrate sending and consuming Kafka events with Zookeeper.  
+### Kafka Badminton Thomas Cup Service  
+A basic project to demonstrate sending and consuming Kafka events with Zookeeper. 
 🔗 [View on GitHub](https://github.com/shirlenelss/thomas-cup-kafka)
 
 ---
