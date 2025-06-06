@@ -38,7 +38,7 @@ Now, I’ve come to value the importance of sharing knowledge and learning in pu
 
 ### Kafka Activity Service  
 A basic project to demonstrate sending and consuming Kafka events with Zookeeper.  
-🔗 [View on GitHub](https://github.com/shirlenelss/kafka-activity-service)
+🔗 [View on GitHub](https://github.com/shirlenelss/thomas-cup-kafka)
 
 ---
 
