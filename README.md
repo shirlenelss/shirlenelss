@@ -60,6 +60,11 @@ A basic project to demonstrate kubernetes in terminal with vi and tmux configs. 
 I’ve set up my own VPC, launched EC2 instances, and configured IAM policies.  
 Still progressing through training to deepen my cloud skills.
 
+### Hashicorp terraform auto deletion of cluster 
+A basic terraform config project to lower unnecessary costs on my free tier
+It deletes my EKS cluster every night
+🔗 [View on GitHub](https://github.com/shirlenelss/aws_auto_delete_cluster)
+
 ---
 
 <!--
