@@ -54,6 +54,13 @@ A basic project to demonstrate kubernetes in terminal with vi and tmux configs. 
 
 ---
 
+### React java spring game tracker
+A basic project to demonstrate react, docker, java, spring, postgres & cypress frontend testing.
+I started introducing DDD into it. Status: WIP 
+🔗 [View on GitHub](https://github.com/shirlenelss/gametimeApp)
+
+---
+
 ## Currently Learning
 
 ### AWS  
