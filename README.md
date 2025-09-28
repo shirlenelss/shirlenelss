@@ -62,6 +62,10 @@ I started introducing DDD into it. Status: WIP
 🔗 [View on GitHub](https://github.com/shirlenelss/gametimeApp)
 
 ---
+### self-signed certificate and private key pair for SSL/TLS connections
+Two basic java projects to demonstrate server keystore that generate server certificate and client trust store with keytool
+A server project and a client project
+🔗 [View on GitHub](https://github.com/shirlenelss/keystore_proj1)
 
 ## Currently Learning
 
