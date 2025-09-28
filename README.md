@@ -41,7 +41,9 @@ A basic project to demonstrate sending and consuming Kafka events with Zookeeper
 Added a swagger to help produce the scores. First consumer reads the record and logs it. 
 Second consumer saves record to postgres DB with JDBC on a docker container with flyway to initiate table.
 
-version 2: 
+Updated:
+I have added docker-compose with postgresql, zookeeper, kafka, prometheus, grafana and k6. 
+
 I'm adding a new data format soon. And we will use AVRO schema and flyway to update the changes.
 This simulates data changes in domain model which happens in production. Especially when there's many teams using same data models. 
 🔗 [View on GitHub](https://github.com/shirlenelss/thomas-cup-kafka)
