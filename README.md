@@ -70,8 +70,9 @@ A server project and a client project
 ## Currently Learning
 
 ### AWS  
-I’ve set up my own VPC, launched EC2 instances, and configured IAM policies.  
+I’m migrating a tomcat java app to AWS, using AWS: EC2, ECR, ECS, IAM, mongoDB in DocumentDB, Secret Manager etc; with terraform.  
 Still progressing through training to deepen my cloud skills.
+Pursueing AWS developer associate certification.
 
 ### Hashicorp terraform auto deletion of cluster 
 A basic terraform config project to lower unnecessary costs on my free tier
