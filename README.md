@@ -67,6 +67,11 @@ Two basic java projects to demonstrate server keystore that generate server cert
 A server project and a client project
 🔗 [View on GitHub](https://github.com/shirlenelss/keystore_proj1)
 
+___
+### AI simple MCP server in python
+A basic python project to demonstrate mcp tool built in python and how to inspect it
+🔗 [View on GitHub](https://github.com/shirlenelss/mcp-server-fcc)
+
 ## Currently Learning
 
 ### AWS  
