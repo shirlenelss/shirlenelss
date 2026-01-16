@@ -72,6 +72,11 @@ ___
 A basic python project to demonstrate mcp tool built in python and how to inspect it
 🔗 [View on GitHub](https://github.com/shirlenelss/mcp-server-fcc)
 
+___
+### Flux argo homelab for kubernetes services with cloudflare tunnel
+A self hosted bookmark app served over kubernetes with cloudflare dns with flux CI/CD 
+🔗 [View on GitHub](https://github.com/shirlenelss/homelab-cluster)
+
 ## Currently Learning
 
 ### AWS  
