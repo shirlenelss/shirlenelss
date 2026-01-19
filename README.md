@@ -68,28 +68,40 @@ A server project and a client project
 🔗 [View on GitHub](https://github.com/shirlenelss/keystore_proj1)
 
 ___
+
 ### AI simple MCP server in python
 A basic python project to demonstrate mcp tool built in python and how to inspect it
 🔗 [View on GitHub](https://github.com/shirlenelss/mcp-server-fcc)
 
 ___
+
 ### Flux argo homelab for kubernetes services with cloudflare tunnel
 A self hosted bookmark app served over kubernetes with cloudflare dns with flux CI/CD 
 🔗 [View on GitHub](https://github.com/shirlenelss/homelab-cluster)
 
-## Currently Learning
+___
 
 ### AWS  
 I’m migrating a tomcat java app to AWS, using AWS: EC2, ECR, ECS, IAM, mongoDB in DocumentDB, Secret Manager etc; with terraform.  
-Still progressing through training to deepen my cloud skills.
+Still progressing through training to deepen my cloud skills. I used Iac terraform to create the resources for AWS.
 Pursueing AWS developer associate certification.
+
+___
 
 ### Hashicorp terraform auto deletion of cluster 
 A basic terraform config project to lower unnecessary costs on my free tier
 It deletes my EKS cluster every night
 🔗 [View on GitHub](https://github.com/shirlenelss/aws_auto_delete_cluster)
 
+
+## Currently Learning
+### SAML Demo for Swedish eID
+A Spring Boot application demonstrating SAML 2.0 authentication using Spring Security SAML2 Service Provider.
+SSOCircle as the test Idp
+🔗 [View on GitHub](https://github.com/shirlenelss/saml_demo)
+
 ---
+
 
 <!--
 **shirlenelss/shirlenelss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
