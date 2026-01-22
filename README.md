@@ -97,7 +97,7 @@ It deletes my EKS cluster every night
 ## Currently Learning
 ### SAML Demo for Swedish eID
 A Spring Boot application demonstrating SAML 2.0 authentication using Spring Security SAML2 Service Provider.
-SSOCircle as the test Idp
+keycloak as the Idp
 🔗 [View on GitHub](https://github.com/shirlenelss/saml_demo)
 
 ---
