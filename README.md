@@ -102,6 +102,12 @@ keycloak as the Idp
 
 ---
 
+## Redis cluster with lettuce
+A Spring Boot application demonstrating Redis clustering with Lettuce client, database sharding, and user account management.
+🔗 [View on GitHub](https://github.com/shirlenelss/lettuce_redis_cluster)
+
+---
+
 
 <!--
 **shirlenelss/shirlenelss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
