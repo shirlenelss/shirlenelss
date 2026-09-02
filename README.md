@@ -36,6 +36,12 @@ Now, I’ve come to value the importance of sharing knowledge and learning in pu
 
 ## Projects
 
+### Homelab flux kubernetes cluster
+A flux reconciled kubernetes cluster project with a self hosted app, traffic managed by cloud-flared tunnel, updated by renovate, monitored with prometheus and grafana with proper scaffold structure and encrypted secrets. 🔗 [View on GitHub](https://github.com/shirlenelss/homelab-cluster)
+
+---
+--
+
 ### ArgoCD promotion deployment project
 A GitOps demo showing how an application version is promoted through environments (dev → stage → prod) using Argo CD ApplicationSet + a shared Helm chart.🔗 [View on GitHub](https://github.com/shirlenelss/argo-auto-promote)
 
