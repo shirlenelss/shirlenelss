@@ -86,12 +86,6 @@ A basic python project to demonstrate mcp tool built in python and how to inspec
 
 ___
 
-### Flux argo homelab for kubernetes services with cloudflare tunnel
-A self hosted bookmark app served over kubernetes with cloudflare dns with flux CI/CD 
-🔗 [View on GitHub](https://github.com/shirlenelss/homelab-cluster)
-
-___
-
 ### AWS  
 I’m migrating a tomcat java app to AWS, using AWS: EC2, ECR, ECS, IAM, mongoDB in DocumentDB, Secret Manager etc; with terraform.  
 Still progressing through training to deepen my cloud skills. I used Iac terraform to create the resources for AWS.
