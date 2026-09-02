@@ -39,6 +39,8 @@ Now, I’ve come to value the importance of sharing knowledge and learning in pu
 ### ArgoCD promotion deployment project
 A GitOps demo showing how an application version is promoted through environments (dev → stage → prod) using Argo CD ApplicationSet + a shared Helm chart.🔗 [View on GitHub](https://github.com/shirlenelss/argo-auto-promote)
 
+---
+
 ### Kafka Badminton Thomas Cup Service  
 A basic project to demonstrate sending and consuming Kafka events with Zookeeper. 
 Added a swagger to help produce the scores. First consumer reads the record and logs it. 
