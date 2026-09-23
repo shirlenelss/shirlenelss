@@ -107,7 +107,7 @@ keycloak as the Idp
 ---
 
 ## OpenBao Vault
-A Java project exploring OpenBao and PKI workflows, including secure secrets management and vault-based patterns.
+A hands-on Java project exploring OpenBao, PKI workflows, and secure secrets management patterns in a practical, real-world setup.
 🔗 [View on GitHub](https://github.com/shirlenelss/openbao_vault)
 
 ---
