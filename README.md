@@ -37,7 +37,7 @@ Now, I’ve come to value the importance of sharing knowledge and learning in pu
 ## Projects
 
 ### Homelab flux kubernetes cluster
-A flux reconciled kubernetes cluster project with a self hosted app, traffic managed by cloud-flared tunnel, updated by renovate, monitored with prometheus and grafana with proper scaffold structure and encrypted secrets. 🔗 [View on GitHub](https://github.com/shirlenelss/homelab-cluster)
+A flux reconciled kubernetes cluster project with a self hosted app, traffic managed by cloud-flared tunnel, updated by renovate, monitored with prometheus and grafana with proper scaffold structure.
 
 ---
 
@@ -106,9 +106,9 @@ keycloak as the Idp
 
 ---
 
-## Redis cluster with lettuce
-A Spring Boot application demonstrating Redis clustering with Lettuce client, database sharding, and user account management.
-🔗 [View on GitHub](https://github.com/shirlenelss/lettuce_redis_cluster)
+## OpenBao Vault
+A Java project exploring OpenBao and PKI workflows, including secure secrets management and vault-based patterns.
+🔗 [View on GitHub](https://github.com/shirlenelss/openbao_vault)
 
 ---
 
