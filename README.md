@@ -11,7 +11,7 @@ I enjoy simplifying complex codebases and have a knack for quickly identifying d
 
 With over **20 years in IT**, I’ve contributed to a range of enterprise systems—from legacy modernization to modern cloud-native applications.
 
-[See my journey on LinkedIn](https://www.linkedin.com/in/shirlene-lim-suan-see-780725a/)
+[See my journey on LinkedIn](https://www.linkedin.com/in/shirlene-lim/)
 
 ---
 
